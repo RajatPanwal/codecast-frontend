@@ -90,7 +90,7 @@ function OtherMssg({ user, mssg }) {
   return (
     <div
       style={{ width: "fit-content", maxWidth: "250px" }}
-      className="  bg-gray-700 ml-2 my-2 rounded-md"
+      className="  bg-gray-600 ml-2 my-2 rounded-md"
     >
       <div className="items-center pl-2 pt-1">
         <Avatar name={user} size={30} round="20px" className="" />
